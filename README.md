@@ -95,15 +95,5 @@ Builds foundation for:
 
 ---
 
-## 📬 Maintainer Info
-
-**Name:** [Your Name]  
-**Email:** [your.email@example.com]  
-**Institute:** [Your Institution Name]  
-**Start Date:** [DD/MM/YYYY]  
-**Submission Date:** [DD/MM/YYYY]
-
----
-
 > *This project is part of the [Project Number 239: Sentiment Analysis in Cryptocurrency Trading]*  
 > Powered by MATLAB & Twitter API  
